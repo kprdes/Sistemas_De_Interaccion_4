@@ -64,20 +64,6 @@ Kevin Pérez
 
 No additional external libraries or dependencies are required.
 
-## License
-
-This project is distributed under the MIT License. See `LICENSE` for more information.
-
-## Credits
-
-Project developed by [Your Name]. Special thanks to the creators of Pure Data and the OSC Controller app for providing the tools that made this project possible.
-
----
-
-Feel free to adjust any of the sections or include additional details specific to your project!Here is a README draft based on the details you've provided for "Project 4," your DJ software using OSC and Pure Data:
-
----
-
 # Project 4 - DJ Software using OSC and Pure Data
 
 ## Overview
@@ -140,3 +126,4 @@ Feel free to adjust any of the sections or include additional details specific t
 
 No additional external libraries or dependencies are required.
 
+This readme was create with help of AI for traduction to english.
